@@ -6,3 +6,6 @@
 ## PYTHON BASICO 
 
 <p> En este caso para la
+
+
+## 📚 Recursos de Estudio Utilizados en Este Roadmap 
